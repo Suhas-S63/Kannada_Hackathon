@@ -3,7 +3,8 @@
 We have undertaken several initiatives in the "Kannada Hackathon" project, focusing on enhancing technology for the Kannada language. Below are the key highlights of my work:
 ![Screenshot 2024-10-02 232256](https://github.com/user-attachments/assets/8c187327-c1f6-4e4f-b42d-2e78f93a9bca)
 
-## * Image to Text Extraction: Developed an advanced Optical Character Recognition (OCR) system capable of extracting text from Kannada images. This technology leverages machine learning techniques, including Convolutional Neural Networks (CNNs), to improve accuracy and efficiency.
+## 
+* Image to Text Extraction: Developed an advanced Optical Character Recognition (OCR) system capable of extracting text from Kannada images. This technology leverages machine learning techniques, including Convolutional Neural Networks (CNNs), to improve accuracy and efficiency.
 
 ## 
  * Writer Identification: Designed a system for identifying the authors of Kannada manuscripts and handwritten texts. This project employs the VGG16 CNN architecture to analyze handwriting features and accurately classify the writer based on their unique writing style.
