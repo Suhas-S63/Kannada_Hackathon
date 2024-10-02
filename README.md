@@ -59,11 +59,7 @@ We implemented a keyword search functionality for Kannada text files. Users can 
 
 ## Installation
 
-To run this project, install the required Python packages by running the following command:
-
-```bash
-pip install -r requirements.txt
-```
+To run this project, install the required Python packages mentioned below: 
 
 ### Required Packages:
 - `opencv-python`
@@ -76,15 +72,6 @@ pip install -r requirements.txt
 
 ---
 
-## Usage
-
-To run the project, provide the path to the input file (PDF or image) and specify the OCR engine to use.
-
-### Example:
-
-```bash
-python main.py --file_path /path/to/your/image_or_pdf --model_type easyocr
-```
 
 Available OCR models:
 - `tesseract`
@@ -110,29 +97,15 @@ project_root/
 
 ---
 
-## Commitment to Kannada Development
-
-This project reflects our dedication to advancing the Kannada language through technology. Our initiatives not only promote the growth of Kannada but also preserve its cultural heritage. By integrating state-of-the-art tools and techniques, we are creating resources that can significantly benefit the Kannada-speaking community.
-
-
----
-
 ## Future Improvements
 - **Improved OCR Accuracy**: Further refining image preprocessing techniques for better accuracy in low-quality documents.
 - **GUI Interface**: Developing a user-friendly interface to make the process more accessible.
-- **Language Expansion**: Extending support to additional Indian languages.
+- **Optimised Preprocessing Flow** : This will good to process and analyse the text even in more obsure conditions
 
 ---
 
 ## License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the GPLv3 License.
 
----
 
-## Acknowledgments
-
-Special thanks to the hackathon organizers and the open-source community for their contributions to the libraries and tools used in this project.
-```
-
-This markdown file includes the entire project description, highlights the hackathon initiatives, and lists the team members. It provides a clear and readable structure for anyone interested in your project.
